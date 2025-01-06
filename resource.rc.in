@@ -15,7 +15,7 @@ BEGIN
     BEGIN
         BLOCK "040904b0"
         BEGIN
-            VALUE "CompanyName", "FiniteSingularity"
+            VALUE "CompanyName", "FiniteSingularity&Yun_er"
             VALUE "FileDescription", "${PROJECT_FULL_NAME}"
             VALUE "FileVersion", "${PROJECT_VERSION}"
             VALUE "InternalName", "${PROJECT_NAME}"
