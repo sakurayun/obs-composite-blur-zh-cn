@@ -10,7 +10,7 @@ else()
 endif()
 
 project(obs-composite-blur VERSION 1.1.0)
-set(PROJECT_FULL_NAME "Composite Blur")
+set(PROJECT_FULL_NAME "模糊滤镜")
 
 # Set new UUIDs when you start to create a new plugin.
 set(MACOS_PACKAGE_UUID "4b7ee47c-b3d2-43e9-8db0-088e4a704e82")
