@@ -330,7 +330,7 @@ jobs:
   windows-package-signed:
     name: "Windows Package Signed"
     if: github.event_name == 'push'
-    runs-on: [self-hosted]
+    runs-on: windows-latest
     needs: [windows-build]
     steps:
       - name: Init
