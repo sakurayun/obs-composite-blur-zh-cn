@@ -36,7 +36,11 @@ WizardResizable=yes
 SetupIconFile="media/icon.ico"
 
 [Languages]
-Name: "english"; MessagesFile: "compiler:Default.isl"
+Name: "chinesesimplified"; MessagesFile: "compiler:Default.isl"
+
+[CustomMessages]
+EnglishMessage=Thank you for installing!
+ChineseMessage=感谢您安装！
 
 [Files]
 Source: "package/*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
